@@ -3,12 +3,14 @@ body {
 }
 
 h1 {
-	text-align: center
+	style-text-align: center;
 }
 
 p {
-	text-align: center;
+	text-align: center
 }
+
+#missao
 
 em strong {
 	color: #FF0000;
